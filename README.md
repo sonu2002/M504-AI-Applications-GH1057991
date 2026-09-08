@@ -17,6 +17,8 @@ discussion and conclusion.
 | `M504_GH1057991.html` | Exported HTML version with all charts and outputs |
 | `requirements.txt` | Python packages needed to run the notebook |
 
+Repository: https://github.com/sonu2002/M504-AI-Applications-GH1057991
+
 ## Dataset source
 https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx
 
@@ -33,10 +35,10 @@ any changes.
 
 ## Business questions answered
 1. Which products generate the most revenue?
-2. How is revenue distributed across countries?
+2. Is the largest market also the most valuable one per customer?
 3. What times of day are busiest for orders?
 4. How concentrated is revenue among customers?
 5. Which products have the highest return rates?
-6. How does revenue trend month by month?
+6. Which products are most often bought together in the same order?
 7. What does a typical order look like?
 8. How does weekday trading compare with weekend trading?
