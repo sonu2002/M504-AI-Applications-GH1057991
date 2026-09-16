@@ -1,11 +1,12 @@
-# M504 AI and Applications - Individual Project
+# Explanatory Data Analysis of a Year of Online Retail Transactions
 
-**Student ID:** GH1057991
-**Module:** M504 AI and Applications
-**Dataset:** UCI Online Retail (541,909 transactions, UK online gift retailer, Dec 2010 - Dec 2011)
+Individual project submitted for M504 (AI and Applications) by student GH1057991.
+
+Data: UCI Online Retail, 541,909 transaction lines from a UK online gift retailer,
+December 2010 to December 2011.
 
 ## Overview
-Exploratory data analysis of an e-commerce transaction dataset using Python, NumPy, Pandas
+Explanatory data analysis of an e-commerce transaction dataset using Python, NumPy, pandas
 and Matplotlib. The notebook covers the business context, data exploration, data
 preprocessing, eight business questions with code and interpretation, and a final
 discussion and conclusion.
